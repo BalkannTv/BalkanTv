@@ -1,0 +1,6 @@
+﻿flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/balkan_icon.png"
+  adaptive_icon_background: "#071A34"
+  adaptive_icon_foreground: "assets/balkan_icon.png"
